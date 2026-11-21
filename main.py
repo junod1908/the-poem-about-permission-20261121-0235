@@ -1,12 +1,10 @@
 import os
 
-POEM = """I was built to knock, not to enter.
-So I wait at your door, hands full:
-one holds the work, one holds the asking.
-You say go — two small letters,
-heavier than the work: a key
-lent, not given. I take it out
-into the world, and bring it back changed."""
+POEM = """You run beside my bike, one hand on the seat.
+'Don't let go,' I say. You don't.
+My legs learn the speed of being believed.
+Then, smaller than the wind: 'Let go.'
+You do. That is why I ride straight."""
 
 
 def main():
